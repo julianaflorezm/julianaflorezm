@@ -46,7 +46,7 @@ I specialize in designing REST APIs, implementing microservices, and developing 
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [(Ir a linkedIn)](https://www.linkedin.com/in/juliana-florez-morales-19213b1a6/)
+- 💼 LinkedIn: https://www.linkedin.com/in/juliana-florez-morales-19213b1a6/
 - 📧 Email: julianamaria304@gmail.com
 
 ---
