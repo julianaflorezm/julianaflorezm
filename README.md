@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Juliana Flórez Morales
 
-<!--
-**julianaflorezm/julianaflorezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Node.js | React | NestJS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Full Stack Developer with experience building scalable web applications using modern backend and frontend technologies.
+
+I specialize in designing REST APIs, implementing microservices, and developing responsive user interfaces. I enjoy writing clean, maintainable code and continuously improving my technical skills.
+
+---
+
+## 🛠 Tech Stack
+
+### ⚙️ Backend
+- Node.js
+- NestJS
+- Express
+- REST APIs
+- Microservices
+- Clean Architecture
+- BFF Pattern
+
+### 🎨 Frontend
+- React
+- Next.js
+- Redux
+- JavaScript / TypeScript
+- Material UI
+
+### 🗄 Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Oracle
+
+### ☁ Cloud & DevOps
+- AWS (Lambda, SQS, RDS, EC2)
+- Azure (B2C)
+- Docker
+- CI/CD basics
+
+---
+
+## 📊 GitHub Stats
+
+![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaflorezm&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [(https://www.linkedin.com/in/juliana-florez-morales-19213b1a6/)]
+- 📧 Email: julianamaria304@gmail.com
+
+---
+
+✨ Passionate about building scalable solutions and growing as a software engineer.
