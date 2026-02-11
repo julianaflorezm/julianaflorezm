@@ -44,12 +44,6 @@ I specialize in designing REST APIs, implementing microservices, and developing 
 
 ---
 
-## 📊 GitHub Stats
-
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaflorezm&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: [(https://www.linkedin.com/in/juliana-florez-morales-19213b1a6/)]
