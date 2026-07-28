@@ -166,7 +166,7 @@ More projects coming soon 🚀
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juliflorezm&show_icons=true&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=julianaflorezm&show_icons=true&theme=github_dark"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliflorezm&layout=compact&theme=github_dark"/>
 
