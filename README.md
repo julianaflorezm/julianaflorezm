@@ -103,7 +103,7 @@ I enjoy solving complex backend problems, improving software architecture, mento
 ## 💼 Professional Experience
 
 ### Backend Developer
-**VASS** (2023 – 2026)
+**VASS** (2023 – Currently)
 
 - Modernized a legacy SharePoint platform into a scalable Node.js microservices architecture.
 - Developed backend services with NestJS and TypeScript.
